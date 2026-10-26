@@ -1,0 +1,22 @@
+
+# CMake build directories
+cmake-build-*/
+build/
+
+# Compiled executables and object files
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+
+# IDE settings
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.bak
+main_backup.cpp
+
+# Local student data
+students.txt
